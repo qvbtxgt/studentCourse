@@ -19,4 +19,6 @@ A system of CourseToSelect for student.
  注意类属性中定义的都是private私有属性，注意它们的使用方法；
  注意泛型的使用方法；
  注意区分List与Set接口，因为其是接口，必须通过其子类才能实现；
- 
+
+根据下面的视频讲解所写代码： 
+http://www.imooc.com/learn/110
